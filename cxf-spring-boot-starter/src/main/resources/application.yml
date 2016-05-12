@@ -1,0 +1,5 @@
+app:
+  cxf:
+    inbound:
+      logging:
+        enabled: true

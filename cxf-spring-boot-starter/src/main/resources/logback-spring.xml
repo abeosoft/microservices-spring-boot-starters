@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<include resource="org/springframework/boot/logging/logback/base.xml" />
+	<logger name="com.abeosoft" level="TRACE" />
+	<logger name="org.springframework.boot" level="DEBUG" />
+	<logger name="org.springframework.web" level="DEBUG" />
+	<logger name="org" level="ERROR" />
+	<logger name="com" level="ERROR" />
+</configuration>
